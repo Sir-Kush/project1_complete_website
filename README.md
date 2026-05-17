@@ -68,11 +68,11 @@ I am currently learning Software Engineering with interest in:
 - Building, deploying, securing, and maintaining software products
 
 I am also using:
-- [Charis Intenlligence, Ogun State](https://portal.charisintelligence.com.ng/
+- [Charis Intenlligence, Ogun State](https://portal.charisintelligence.com.ng/)
 - [freeCodeCamp](https://freeCodeCamp.org/learn)
 
 to strengthen my learning and practical understanding.
 
 ## Author
 
-GitHub: https://github.com/Sir-Kush
+GitHub: [Sir-Kush](https://github.com/Sir-Kush)
